@@ -1,5 +1,5 @@
 joblib
 scikit-learn
 pandas
-streamlit==1.31.0
-altair==4.2.2
+streamlit>=1.31.0
+altair<5
