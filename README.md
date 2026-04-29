@@ -48,4 +48,11 @@ The model uses the following health indicators:
 - Resting ECG  
 - Maximum Heart Rate Achieved  
 - Exercise-Induced Angina  
-- ST Depression (Oldpeak)  
+- ST Depression (Oldpeak)
+
+
+https://heart-disease-app-6l8cv746qejteunwvrzwqd.streamlit.app/
+
+<img width="560" height="833" alt="Screenshot 2026-04-29 061216" src="https://github.com/user-attachments/assets/932d2704-307d-485e-a7dc-b361a6433aae" />
+
+
